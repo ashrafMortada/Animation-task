@@ -1,0 +1,206 @@
+
+.div1{
+    width:200px;
+    height:100px;
+    background-color: red;
+    position:absolute;
+    left: 10px;
+    animation: div1 3s ease 0s 1 forwards;
+}
+@keyframes div1{
+   from{
+        left:0px;
+        opacity: 0.3;
+    }
+    to {background-color:blue;
+        left:1250px;
+        opacity: 1;
+    } 
+} 
+.div2{
+    width:200px;
+    height:100px;
+    background-color: blue;
+    position:absolute;
+    top: 110px;
+    right:10px;
+    animation: div2 3s ease 3s 1 forwards;
+}
+@keyframes div2{
+   from{
+    right:0px;
+    opacity: 0.3;
+   
+    }
+    to {background-color:red;
+        right:1250px;
+        opacity: 1;
+    } 
+} 
+
+.div3{
+    width:200px;
+    height:100px;
+    background-color: red;
+    position:absolute;
+    top:220px;
+    left: 10px;
+    animation: div3 3s ease 6s 1 forwards;
+}
+@keyframes div3{
+    from{
+         left:0px;
+         opacity: 0.3;
+     }
+     to {background-color:blue;
+         left:1250px;
+         opacity: 1;
+     } 
+ } 
+ .div4{
+    width:200px;
+    height:100px;
+    background-color: blue;
+    position:absolute;
+    top: 330px;
+    right:10px;
+    
+    animation: div4 3s ease 9s 1 forwards;
+    
+}
+@keyframes div4{
+   from{
+    right:0px;
+    opacity: 0.3;
+   
+    }
+    to {background-color:red;
+        right:1250px;
+        opacity: 1;
+    } 
+}  
+.div5{
+    width:200px;
+    height:100px;
+    background-color: red;
+    position:absolute;
+    top:440px;
+    left: 10px;
+    animation: div5 3s ease 12s 1 forwards;
+}
+@keyframes div5{
+    from{
+         left:0px;
+         opacity: 0.3;
+     }
+     to {background-color:blue;
+         left:1250px;
+         opacity: 1;
+     } 
+ } 
+
+
+ .div6{
+    width:200px;
+    height:100px;
+    background-color: blue;
+    position:absolute;
+    top: 550px;
+    right:10px;
+    
+    animation: div6 3s ease 15s 1 forwards;
+    
+}
+@keyframes div6{
+   from{
+    right:0px;
+    opacity: 0.3;
+   
+    }
+    to {background-color:red;
+        right:1250px;
+        opacity: 1;
+    } 
+}  
+.div7{
+    width:200px;
+    height:100px;
+    background-color: red;
+    position:absolute;
+    top:660px;
+    left: 10px;
+    animation: div7 3s ease 18s 1 forwards;
+}
+@keyframes div7{
+    from{
+         left:0px;
+         opacity: 0.3;
+     }
+     to {background-color:blue;
+         left:1250px;
+         opacity: 1;
+     } 
+ } 
+ .div8{
+    width:200px;
+    height:100px;
+    background-color: blue;
+    position:absolute;
+    top: 770px;
+    right:10px;
+    
+    animation: div8 3s ease 21s 1 forwards;
+    
+}
+@keyframes div8{
+   from{
+    right:0px;
+    opacity: 0.3;
+   
+    }
+    to {background-color:red;
+        right:1250px;
+        opacity: 1;
+    } 
+}  
+.div9{
+    width:200px;
+    height:100px;
+    background-color: red;
+    position:absolute;
+    top:880px;
+    left: 10px;
+    animation: div9 3s ease 24s 1 forwards;
+}
+@keyframes div9{
+    from{
+         left:0px;
+         opacity: 0.3;
+     }
+     to {background-color:blue;
+         left:1250px;
+         opacity: 1;
+     } 
+ } 
+ .div10{
+    width:200px;
+    height:100px;
+    background-color: blue;
+    position:absolute;
+    top: 990px;
+    right:10px;
+    
+    animation: div10 3s ease 27s 1 forwards;
+    
+}
+@keyframes div10{
+   from{
+    right:0px;
+    opacity: 0.3;
+   
+    }
+    to {background-color:red;
+        right:1250px;
+        opacity: 1;
+    } 
+} 
